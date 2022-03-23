@@ -1,0 +1,6 @@
+
+State Machine - |verkeerslicht|state
+Name state.state_C state.state_B state.state_A 
+state.state_A 0 0 0 
+state.state_B 0 1 1 
+state.state_C 1 0 1 

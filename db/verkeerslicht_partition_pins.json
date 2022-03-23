@@ -1,0 +1,41 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "P_R",
+					"strict" : false
+				},
+				{
+					"name" : "P_gr",
+					"strict" : false
+				},
+				{
+					"name" : "C_gr",
+					"strict" : false
+				},
+				{
+					"name" : "C_yel",
+					"strict" : false
+				},
+				{
+					"name" : "C_R",
+					"strict" : false
+				},
+				{
+					"name" : "button",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
